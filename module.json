@@ -1,0 +1,10 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Medal",
+    "author": "CatAnnaDev",
+    "description": "Auto medal-store buy then dismantle loop",
+    "options": {
+        "niceName": "Medal Auto",
+        "reloadable": true
+    }
+}
